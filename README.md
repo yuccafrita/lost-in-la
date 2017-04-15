@@ -12,3 +12,4 @@ DataVizForAll Exercises
 <b> B.  Highcharts Scatter </b>  
 <iframe src="https://yuccafrita.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
 
+## View code: https://github.com/yuccafrita/lost-in-la/
